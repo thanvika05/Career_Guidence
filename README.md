@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Career Guidance
 
-TODO: Document your project here
+Welcome to your Career Guidance project. This project is built using Lovable.
